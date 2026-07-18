@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="GitHub Banner" width="100%">
-</p>
 <div align="center">
 
 # 👋 Hi, I'm Vallala Surya
