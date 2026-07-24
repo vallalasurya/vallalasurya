@@ -215,7 +215,7 @@ covering data cleaning, feature engineering, model training, and evaluation.
   <img src="https://img.shields.io/badge/LinkedIn-4a00e0?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/vallala-surya">
+<a href="https://github.com/vallalasurya/">
   <img src="https://img.shields.io/badge/GitHub-1a0b3d?style=for-the-badge&logo=github&logoColor=b388ff" />
 </a>
 &nbsp;
