@@ -10,13 +10,13 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vallala-surya&label=Profile%20Views&color=b388ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=vallalasurya&label=Profile%20Views&color=b388ff&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <a href="mailto:vallalasurya4@gmail.com"><img src="https://img.shields.io/badge/Gmail-8e2de2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/vallala-surya"><img src="https://img.shields.io/badge/LinkedIn-4a00e0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vallalasurya"><img src="https://img.shields.io/badge/LinkedIn-4a00e0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://github.com/vallala-surya"><img src="https://img.shields.io/badge/GitHub-1a0b3d?style=for-the-badge&logo=github&logoColor=b388ff" /></a>
+<a href="https://github.com/vallalasurya"><img src="https://img.shields.io/badge/GitHub-1a0b3d?style=for-the-badge&logo=github&logoColor=b388ff" /></a>
 
 </div>
 
@@ -148,20 +148,20 @@ covering data cleaning, feature engineering, model training, and evaluation.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vallala-surya&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=b388ff&icon_color=8e2de2&text_color=c9c9ff" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallala-surya&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=b388ff&text_color=c9c9ff" width="39%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vallalasurya&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=b388ff&icon_color=8e2de2&text_color=c9c9ff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallalasurya&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=b388ff&text_color=c9c9ff" width="39%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=vallala-surya&theme=radical&hide_border=true&border=8e2de2&ring=b388ff&fire=b388ff&currStreakLabel=b388ff&background=0d0221" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=vallalasurya&theme=radical&hide_border=true&border=8e2de2&ring=b388ff&fire=b388ff&currStreakLabel=b388ff&background=0d0221" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vallala-surya&theme=react-dark&bg_color=0d0221&color=b388ff&line=8e2de2&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vallalasurya&theme=react-dark&bg_color=0d0221&color=b388ff&line=8e2de2&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vallala-surya&theme=dark" width="0" height="0" style="display:none" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vallalasurya&theme=dark" width="0" height="0" style="display:none" />
 
 </div>
 
@@ -173,7 +173,7 @@ covering data cleaning, feature engineering, model training, and evaluation.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vallala-surya/vallala-surya/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vallalasurya/vallalasurya/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation" />
 
 <sub>⚙️ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — set this up via a GitHub Action in your profile repo to activate it.</sub>
 
@@ -187,7 +187,7 @@ covering data cleaning, feature engineering, model training, and evaluation.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vallala-surya&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=vallalasurya&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -211,11 +211,11 @@ covering data cleaning, feature engineering, model training, and evaluation.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vallala-surya">
+<a href="https://www.linkedin.com/in/vallalasurya">
   <img src="https://img.shields.io/badge/LinkedIn-4a00e0?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/vallalasurya/">
+<a href="https://github.com/vallalasurya">
   <img src="https://img.shields.io/badge/GitHub-1a0b3d?style=for-the-badge&logo=github&logoColor=b388ff" />
 </a>
 &nbsp;
