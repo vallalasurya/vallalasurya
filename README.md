@@ -1,4 +1,7 @@
-<div align="center">
+<p align="center">
+  <img src="./github-banner.png.png" alt="Surya Vallala - Data Science | Machine Learning | AI" width="100%">
+</p>
+<div align="center"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:0D47A1,100:2196F3&height=230&section=header&text=Surya%20Vallala&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=60&descSize=20" />
 
